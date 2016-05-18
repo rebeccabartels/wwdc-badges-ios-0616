@@ -10,7 +10,16 @@
     
     /**
      
-     * Write your solution here.
+     * 
+     for (NSUInteger i = 0; i < 8; i++) {
+      NSMutableArray *firstname = [NSMutableArray arrayWithArray:@[ @"Anita", @"Alan", @"Ada", @"Aaron", @"Alan", @"Michael", @"Grace", @"Charles"];
+     }
+     
+     for (NSUInteger i = 0; i < 8; i++) {
+     NSMutableArray *lastname = [NSMutableArray arrayWithArray:@[ @"Borg", @"Kay", @"Lovelace", @"Swartz", @"Turing", @"Faraday", @"Hopper", @"Babbage"];
+     }
+     
+     NSLog(@"Hello, my name is <#firstname#><#lastname#>.")
      
      */
     
